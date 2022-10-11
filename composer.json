@@ -14,7 +14,7 @@
     }
   ],
   "require": {
-    "pantheon-upstreams/upstream-config": "*"
+    "cul-upstreams/upstream-config": "*"
   },
   "config": {
     "vendor-dir": "vendor",
