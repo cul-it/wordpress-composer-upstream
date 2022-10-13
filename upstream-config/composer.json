@@ -1,7 +1,7 @@
 {
     "name": "cul-upstreams/upstream-config",
     "type": "project",
-    "version": "1.0.8",
+    "version": "1.0.9",
     "repositories": [
         {
             "type": "composer",
