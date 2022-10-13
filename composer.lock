@@ -159,11 +159,11 @@
         },
         {
             "name": "cul-upstreams/upstream-config",
-            "version": "1.0.6",
+            "version": "1.0.8",
             "dist": {
                 "type": "path",
                 "url": "upstream-config",
-                "reference": "210c639f4f162083cf55dd3cc2daf4b8cf25d1fc"
+                "reference": "c957fb68d1f958f19d42d419b9232e5335d3aa82"
             },
             "require": {
                 "composer/installers": "^1.3.0",
