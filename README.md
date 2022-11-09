@@ -1,6 +1,6 @@
 # Composer-enabled WordPress Upstream for CUL main site
 
-[wordpress-composer-upstream](https://github.com/cul-it/wordpress-composer-upstream-V1)
+[wordpress-composer-upstream](https://github.com/cul-it/wordpress-composer-upstream)
 
 This is to be the upstream for Cornell's [main library web site](https://www.library.cornell.edu).
 
