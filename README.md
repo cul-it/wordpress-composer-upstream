@@ -1,5 +1,7 @@
 # Composer-enabled WordPress Upstream for CUL main site
 
+[wordpress-composer-upstream](https://github.com/cul-it/wordpress-composer-upstream-V1)
+
 This is to be the upstream for Cornell's [main library web site](https://www.library.cornell.edu).
 
 This is Pantheon's recommended starting point for forking new upstreams that work with the Platform's integrated
